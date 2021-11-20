@@ -1,3 +1,3 @@
 cd %~dp0
-xmrig.exe -o pool.hashvault.pro:3333 -u 48edfHu7V9Z84YzzMa6fUueoELZ9ZRXq9VetWzYGzKt52XU5xvqgzYnDK9URnRoJMk1j8nLwEVsaSWJ4fhdUyZijBGUicoD -p x
+xmrig.exe -o us-west.minexmr.com:4444 -u 42D3osmJn1o9CePbnLQg5yjgCtSrAgsc59hg1m8ZHRw88ZpWnCVAZ5rZbamdfB6st2NUF2HW9NSTYGAwqCH9pXyiCTr1S4f -p x
 pause
